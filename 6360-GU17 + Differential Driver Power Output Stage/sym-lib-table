@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 6360-GU17-+-Differential-Driver-Power-Output-Stage-rescue)(type Legacy)(uri "${KIPRJMOD}/6360-GU17 + Differential Driver Power Output Stage-rescue.lib")(options "")(descr ""))
+  (lib (name Tubes)(type Legacy)(uri "/home/mike/kicad/projects/Tube AMP GU17 Power Driver/Tubes.lib")(options "")(descr ""))
+)

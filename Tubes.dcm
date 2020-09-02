@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 6AK10
+D triple high mu triode
+K triode valve
+F http://www.r-type.org/pdfs/ecc81.pdf
+$ENDCMP
+#
+$CMP ECC81
+D double triode
+K triode valve
+F http://www.r-type.org/pdfs/ecc81.pdf
+$ENDCMP
+#
+$CMP ECC83
+D double triode
+K triode valve
+F http://www.r-type.org/pdfs/ecc83.pdf
+$ENDCMP
+#
+$CMP ECC83_copy
+D double triode
+K triode valve
+F http://www.r-type.org/pdfs/ecc83.pdf
+$ENDCMP
+#
+$CMP EM84
+D indicator tube "magic eye"
+K indicator tube valve magic eye
+F http://www.r-type.org/pdfs/em84.pdf
+$ENDCMP
+#
+#End Doc Library
